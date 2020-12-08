@@ -6,7 +6,7 @@ class ImagemagickPango < Formula
   # unnecessarily and older versions of the formula are broken.
   url "https://dl.bintray.com/homebrew/mirror/ImageMagick-7.0.10-46.tar.xz"
   mirror "https://www.imagemagick.org/download/ImageMagick-7.0.10-46.tar.xz"
-  sha256 "8b7bb75fdac3fbe8f847eb127d471989d505e44ac6664fa030ef86992c12f26d"
+  sha256 "6098853e9fe83bf126a06d2daab5e020e906c6299358cb4d52bef8f37171636e"
   revision 1
   head "https://github.com/ImageMagick/ImageMagick.git"
 
